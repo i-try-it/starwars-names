@@ -1,0 +1,19 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random star wors names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-try-it/starwars-names.git"
+  },
+  "author": "i-try-it <yul4_k@rambler.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i-try-it/starwars-names/issues"
+  },
+  "homepage": "https://github.com/i-try-it/starwars-names#readme"
+}
